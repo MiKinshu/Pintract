@@ -1,6 +1,6 @@
-# Javafx
+# Pintract
 
-This folder contains code for everything asked in the questions given below. To run these codes you must have Javafx libraries installed.
+This repository contains code for everything asked in the questions given below. To run these codes you must have Javafx libraries installed.
 
 ## Questions
 
